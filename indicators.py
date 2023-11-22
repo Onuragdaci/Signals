@@ -1,17 +1,10 @@
 import numpy as np
 import pandas as pd
 import pandas_ta as ta
-import vectorbt as vbt
 from tvDatafeed import TvDatafeed, Interval
-import dataframe_image as dfi
-import warnings
-import datetime
-import matplotlib.pyplot as plt
 import streamlit as st
 import ssl
 from urllib import request
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 #python -m streamlit run app.py
 
 def Hisse_Temel_Veriler():
