@@ -9,5 +9,6 @@ urllib3==1.26.16
 webdriver-manager
 streamlit==1.25.0
 seleniumbase==4.17.9
+pandas_ta
 git+https://github.com/baselsm/tvdatafeed
 requests
